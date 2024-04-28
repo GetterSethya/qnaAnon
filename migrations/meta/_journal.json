@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707747725631,
+      "tag": "0000_ancient_iron_monger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708010145041,
+      "tag": "0001_illegal_sebastian_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708011959953,
+      "tag": "0002_panoramic_warbird",
+      "breakpoints": true
+    }
+  ]
+}

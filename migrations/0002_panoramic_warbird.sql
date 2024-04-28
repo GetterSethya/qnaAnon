@@ -1,0 +1,1 @@
+DROP INDEX IF EXISTS `userId_unique_idx`;

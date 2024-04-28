@@ -1,0 +1,1 @@
+ALTER TABLE questions ADD `visibility` text NOT NULL;

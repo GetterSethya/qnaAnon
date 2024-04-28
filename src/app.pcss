@@ -1,0 +1,19 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[data-popup] {
+	/* Display */
+	display: none;
+	/* Position */
+	position: absolute;
+	top: 0;
+	left: 0;
+	/* Transitions */
+	transition-property: opacity;
+	transition-timing-function: cubic-bezier(.4,0,.2,1);
+	transition-duration: .15s
+}
+		
+
